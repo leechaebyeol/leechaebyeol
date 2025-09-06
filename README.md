@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/752091119044368803/draw"
